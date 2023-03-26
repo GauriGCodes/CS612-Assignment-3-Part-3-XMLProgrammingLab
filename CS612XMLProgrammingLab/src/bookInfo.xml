@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE library SYSTEM
-        "D:\CS612-Assignment-3-Part-3-XMLProgrammingLab\CS612XMLProgrammingLab\src\bookInfoDefinition.dtd">
+<!DOCTYPE library SYSTEM "bookInfoDefinition.dtd">
 <library>
  <book id="1">
  <title>Becoming</title>
