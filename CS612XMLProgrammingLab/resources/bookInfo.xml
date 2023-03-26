@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE library SYSTEM "bookInfoDefinition.dtd">
+<library>
+ <book id="1">
+ <title>Becoming</title>
+ <author>Michelle Obama</author> 
+ <genre>Autobiography</genre>
+ </book>
+ <book id="2">
+ <title>Harry Potter</title> 
+ <author>J K Rowling</author> 
+ <genre>Fiction</genre> 
+ </book>
+  <book id="3"> 
+ <title>The God of Small Things</title> 
+ <author>Arundhati Roy</author> 
+ <genre>Fiction</genre> 
+  </book>
+</library>
