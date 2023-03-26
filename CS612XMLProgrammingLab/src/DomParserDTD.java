@@ -13,7 +13,7 @@ import java.io.File;
 import java.io.IOException;
 
 public class DomParserDTD {
-    private final static String xmlFileName = "resources/bookInfo.xml";
+    private final static String xmlFileName = "bookInfo.xml";
     static Boolean errorFlag = false;
     public static void main(String[] args) {
         try {

@@ -17,10 +17,10 @@ import java.io.IOException;
 
 
 public class DomParserSchema {
-        private final static String xmlFileName = "resources/bookInfo.xml";
+        private final static String xmlFileName = "bookInfo.xml";
         public static void main(String [] args){
             Schema schema = null;
-            String schemaFileName = "resources/bookInfoSchema.xsd";
+            String schemaFileName = "bookInfoSchema.xsd";
 
             DocumentBuilderFactory dbf = DocumentBuilderFactory.newInstance();
             try {
