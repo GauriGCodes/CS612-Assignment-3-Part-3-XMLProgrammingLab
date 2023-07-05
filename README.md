@@ -1,5 +1,4 @@
-# CS612 Assignment-3
-# Part-3 - XML Programming Lab
+# XML Programming
 cd CS612XMLProgrammingLab/src  <br/>
 Run the file DOMParserSchema.java to validate against XML Schema   <br/>
 javac DOMParserSchema.java <br/>
